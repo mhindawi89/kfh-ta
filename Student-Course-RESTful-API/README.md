@@ -37,3 +37,6 @@ I have developed this Student and course Management Application REST API. This A
 - Register him/herself.
 - Login & Logout.
 - See list of courses, etc.
+
+#Swagger URL
+http://localhost:8888/swagger-ui/#/
